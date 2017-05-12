@@ -29,4 +29,12 @@ Latest gist link
 https://gist.github.com/qaisarmehmood/9e04bb9d0eb8955ea4354f975b2bbe70
 
 #Data sources and preprocessing
+Go to the following websites for Data links
+1.Census.gov
+https://www.census.gov/
+
+2.American Fact Finder
+https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_SF1_SF1DP1&prodType=table
+
+
 
