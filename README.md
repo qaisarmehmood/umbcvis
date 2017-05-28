@@ -2,9 +2,6 @@
 
 Chloropleth Map of New York showing the Population under age 5 in all New York counties for years 2010-2015 based on data from census.gov. The goal is to identify the counties by a color scheme and showing the percentage of population in a specific county.According to the data from census.gov Jefferson County has the highest population and Hamilton county has the least amount of population.
 
-# Final MAp
-
-https://bl.ocks.org/qaisarmehmood/4a8b618753d845694774aeb7b62a71ff
 
 #Project repository
 
@@ -31,6 +28,10 @@ https://umbcvis.github.io/projects/qaisarmehmood/index3
 Latest gist link
 
 https://gist.github.com/qaisarmehmood/4a8b618753d845694774aeb7b62a71ff
+
+# Final Map
+
+https://bl.ocks.org/qaisarmehmood/4a8b618753d845694774aeb7b62a71ff
 
 #Data sources and preprocessing
 Go to the following websites for Data links
